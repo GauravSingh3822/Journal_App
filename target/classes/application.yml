@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: prod
+
+
+logging:
+  level:
+#    root: ERROR
+    net:
+      engineeringdigest:
+        journalApp: DEBUG
+
+
+

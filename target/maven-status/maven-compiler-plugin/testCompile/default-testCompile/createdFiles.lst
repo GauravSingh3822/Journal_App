@@ -1,0 +1,4 @@
+net\engineeringdigest\journalApp\JournalAppApplicationTests.class
+net\engineeringdigest\journalApp\service\UserDetailsServiceImplTests.class
+net\engineeringdigest\journalApp\service\UserServiceTests.class
+net\engineeringdigest\journalApp\service\UserArgumentsProvider.class
