@@ -1,0 +1,4 @@
+24-12-26 10:22:26.209[http-nio-8081-exec-1]INFO  o.a.c.c.C.[.[localhost].[/journal] ---Initializing Spring DispatcherServlet 'dispatcherServlet' 
+24-12-26 10:22:26.217[http-nio-8081-exec-1]INFO  o.s.web.servlet.DispatcherServlet ---Initializing Servlet 'dispatcherServlet' 
+24-12-26 10:22:26.220[http-nio-8081-exec-1]INFO  o.s.web.servlet.DispatcherServlet ---Completed initialization in 2 ms 
+24-12-26 10:22:26.595[http-nio-8081-exec-1]INFO  org.mongodb.driver.connection ---Opened connection [connectionId{localValue:3, serverValue:18}] to localhost:27017 
